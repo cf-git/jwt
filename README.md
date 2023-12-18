@@ -20,9 +20,14 @@ This library is not susceptible to a common [encryption vulnerability](https://a
 
 ## Installation
 
+```shell
+# Author version
+# composer require emarref/jwt
+# Changed for security reasons
+composer require cf-git/jwt
 ```
-composer require emarref/jwt
-```
+
+**Namespaces not changed!**
 
 ## Usage
 
